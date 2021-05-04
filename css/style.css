@@ -1,6 +1,6 @@
 .background {
     position: relative;
-    background-image: url('/img/background.png');
+    background-image: url('img/background.png');
     width: 500px;
     height: 330px;
 }
